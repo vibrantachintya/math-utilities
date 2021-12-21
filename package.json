@@ -1,0 +1,19 @@
+{
+  "name": "math-utilities",
+  "version": "0.1.0",
+  "description": "Use various Math utilities for your project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibrantachintya/math-utilities.git"
+  },
+  "author": "vibrantachintya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibrantachintya/math-utilities/issues"
+  },
+  "homepage": "https://github.com/vibrantachintya/math-utilities#readme"
+}
