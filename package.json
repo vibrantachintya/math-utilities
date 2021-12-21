@@ -1,5 +1,5 @@
 {
-  "name": "math-utilities",
+  "name": "@vibrantachintya/math-utilities",
   "version": "0.1.0",
   "description": "Use various Math utilities for your project",
   "main": "index.js",
