@@ -17,7 +17,7 @@ Number min
 function max (array Number arguements) =>
 Number max
 
-function sortNumber (array Number arguements) =>
+function sortNumbers (array Number arguements) =>
 Array Number arguments
 ```
 
